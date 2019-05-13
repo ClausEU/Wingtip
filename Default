@@ -7,17 +7,3 @@ runat="server">
  information to help you choose the right toy.</p>
 </asp:Content>
 
-
-
-
-
-
-
-// DIV koden
-<div id="TitleContent" style="text-align: center">
- <a runat="server" href="~/">
- <asp:Image ID="Image1" runat="server"
-ImageUrl="~/Images/logo.jpg" BorderStyle="None" />
- </a> 
- <br />
- </div>
