@@ -6,3 +6,11 @@ ImageUrl="~/Images/logo.jpg" BorderStyle="None" />
  </a> 
  <br />
  </div>
+
+
+
+
+
+
+
+<li><a runat="server" href="~/ProductList">Products</a></li>
